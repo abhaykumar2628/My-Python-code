@@ -1,4 +1,4 @@
-val = [1,2,6,3,2,1]
+val = [1,2,3,2,1]
 
 rval = val.copy()
 rval.reverse()
